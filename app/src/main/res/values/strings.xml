@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="home_title">Lật Thẻ Trí Nhớ</string>
+    <string name="home_sub">Tìm các cặp thẻ giống nhau nhanh nhất có thể!</string>
+    <string name="choose_level">Chọn độ khó</string>
+    <string name="easy">Dễ</string>
+    <string name="medium">Vừa</string>
+    <string name="hard">Khó</string>
+    <string name="play">▶  Bắt đầu chơi</string>
+    <string name="tab_home">Trang chủ</string>
+    <string name="tab_scores">Điểm cao</string>
+    <string name="tab_guide">Hướng dẫn</string>
+    <string name="title_scores">Bảng điểm cao</string>
+    <string name="title_guide">Hướng dẫn chơi</string>
+    <string name="guide_body">🎯 Mục tiêu: lật các thẻ để tìm hết các cặp hình giống nhau.\n\n👆 Chạm vào một thẻ để lật. Lật 2 thẻ giống nhau thì chúng sẽ được giữ lại, khác nhau thì úp xuống.\n\n💡 Mỗi ván có 2 lần Gợi ý (xem nhanh các thẻ trong 1 giây), mỗi lần bị cộng 10 giây.\n\n⭐ Điểm càng cao khi bạn hoàn thành càng nhanh và ít lượt lật.\n\n👉 Nhấn giữ vào khu vực chơi hoặc bảng thống kê để mở Context Menu (chơi lại, đổi độ khó, bật/tắt âm thanh).\n\n⚙ Menu ba chấm ở trang chủ: bật/tắt âm thanh, rung, đổi độ khó mặc định, xóa điểm cao.\n\n👥 Chơi 2 người: hai người lần lượt lật thẻ. Lật đúng thì được lật tiếp, lật sai thì đổi lượt. Ai tìm được nhiều cặp hơn sẽ thắng.\n\n👀 Ghi nhớ nhanh: đầu ván bạn được xem tất cả thẻ vài giây rồi thẻ úp lại, không có gợi ý.\n\n⏳ Đếm ngược: phải tìm hết cặp trước khi hết giờ, lật đúng liên tiếp được cộng giờ.\n\n🎨 Đổi màu chủ đạo ở trang chủ hoặc trong menu ba chấm.\n\n💰 Cửa hàng: thắng ván để nhận xu, dùng xu mua chủ đề thẻ, màu chủ đạo, mặt sau thẻ và vật phẩm (lượt gợi ý, cộng giờ, đóng băng thời gian, gợi ý 1 cặp, nhân đôi điểm). Vật phẩm dùng bằng các nút nhỏ phía dưới bàn chơi.</string>
+    <string name="time">Thời gian</string>
+    <string name="moves">Lượt lật</string>
+    <string name="pairs">Cặp</string>
+    <string name="restart">↻ Chơi lại</string>
+    <string name="done_title">Hoàn thành!</string>
+    <string name="new_record">🏆 KỶ LỤC MỚI!</string>
+    <string name="play_again">Chơi lại</string>
+    <string name="back_menu">Về menu</string>
+    <string name="score_label">ĐIỂM</string>
+</resources>

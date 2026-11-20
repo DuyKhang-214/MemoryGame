@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ctx_restart" android:title="Chơi lại ván này" />
+    <item android:id="@+id/ctx_mode" android:title="Đổi chế độ (Cổ điển / Đếm ngược)" />
+    <item android:id="@+id/ctx_theme" android:title="Đổi chủ đề thẻ tiếp theo" />
+    <item android:id="@+id/ctx_easy" android:title="Đổi sang: Dễ (3×4)" />
+    <item android:id="@+id/ctx_medium" android:title="Đổi sang: Vừa (4×4)" />
+    <item android:id="@+id/ctx_hard" android:title="Đổi sang: Khó (4×6)" />
+    <item android:id="@+id/ctx_sound" android:title="Bật/tắt âm thanh" />
+</menu>
